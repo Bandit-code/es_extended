@@ -167,13 +167,13 @@ AddEventHandler('esx:removeInventoryItem', function(item, count, showNotificatio
 		end
 	end
 
-	if showNotification then
-		ESX.UI.ShowInventoryItemNotification(false, item, count)
-	end
+--	if showNotification then
+	--	ESX.UI.ShowInventoryItemNotification(false, item, count)
+	--end
 
-	if ESX.UI.Menu.IsOpen('default', 'es_extended', 'inventory') then
-		ESX.ShowInventory()
-	end
+	--if ESX.UI.Menu.IsOpen('default', 'es_extended', 'inventory') then
+	--	ESX.ShowInventory()
+--	end
 end)
 
 RegisterNetEvent('esx:setJob')
