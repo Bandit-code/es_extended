@@ -166,7 +166,7 @@ AddEventHandler('esx:removeInventoryItem', function(item, count, showNotificatio
 			break
 		end
 	end
-
+-- This is the commet for the hud!
 --	if showNotification then
 	--	ESX.UI.ShowInventoryItemNotification(false, item, count)
 	--end
