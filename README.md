@@ -1,5 +1,6 @@
-# es_extended LEGACY / BROKEN / WONTFIX
+#This is fork of the ``es_extended`` I removed the HUD when ever you run F2 to see a hud now I would use
 
+# https://forum.cfx.re/t/release-esx-inventory-hud-2-4-properties-trunks-players-shops-storages/388318
 ### Things hapenning here now https://github.com/ESX-Org/es_extended/tree/develop (WIP)
 
 es_extended is a roleplay framework for FiveM. The to-go framework for creating an economy based roleplay server on FiveM and most popular on the platform, too!
